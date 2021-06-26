@@ -1,0 +1,81 @@
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 50px;
+text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
+#canvas
+{
+    border: 1px solid black;
+    margin: 10px 0 10px 0;
+    cursor: pointer;
+}
+#colors button
+{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    margin-top: 0px;
+}
+#black 
+{
+    background: black;
+}
+#pink 
+{
+    background: pink;
+}
+#red
+{
+    background: red;
+}
+#green 
+{ 
+    background: green;
+}
+#blue 
+{
+    background: blue;
+}
+#orange 
+{
+    background: orange;
+}
+
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.pu{
+  padding: 50px;
+text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
