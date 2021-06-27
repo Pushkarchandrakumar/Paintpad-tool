@@ -73,6 +73,7 @@ text-align: center;
   transform: translateY(4px);
 }
 .pu{
+  position: fixed;
   padding: 50px;
 text-align: center;
   background: #1abc9c;
